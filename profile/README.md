@@ -12,4 +12,4 @@ We work across:
 
 Interested in building useful tools at the intersection of hardware, biology, and software?
 
-→ https://www.trackpaw.se/careers
+→ [trackpaw.se/careers](https://www.trackpaw.se/careers)
